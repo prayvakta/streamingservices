@@ -1,1 +1,29 @@
-This is the readme file
+
+In this project, the Junior Data Analyst team from NPower is working on a dataset from Kaggle. 
+The dataset can be found in the following link: https://www.kaggle.com/ruchi798/tv-shows-on-netflix-prime-video-hulu-and-disney
+
+Content
+The data scraped comprises a comprehensive list of tv shows available on various streaming platforms
+
+After discussion, we decided to investigate the following inqueries:
+
+- How many platforms are there and how many shows do they have-? - Edward Castro
+	  +Bar Chart and Pie Chart will be used for this for discussion during presentation.
+- Which platform is most successful?
+- We can answer this based on highest amount of movies and ratings on platform
+- What are the highest rated movies based on Rotten Tomato and IMDb? - Sowjanya
+- Which shows are on multiple platforms and are they highly rated? - Saloni
+- How many movies were released per year? - Edward Castro
+	  +Line Chart will be used for visualization.
+- How many recent (>2015) movies are available for each age group? Gilmara Sales
+- Is there any correlation between age groups and year? Relationship? - Sunint
+How many shows are exclusive to each platform? - Tony
+What are their average ratings/which platform has better exclusive shows? - Pray
+
+--------------------------------------------------------------------------------
+Issues with Data:
+
+We are missing data in Rotten Tomatoes and IMDb columns. Should it be replaced with ‘NaN’?
+We are missing data in Ages. Should it be replaced with ‘NaN’?
+Is ‘type’ even usable?
+
